@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+Hi Human
+ i am UFO From ANOTHER plant!!
+ 
+ ##我的介绍结束了
+ 
